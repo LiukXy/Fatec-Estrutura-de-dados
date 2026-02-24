@@ -5,7 +5,7 @@
         return 1;
     }
     else {
-        return x * potencia(x, y - 1);
+        return x * potencia (x, y - 1);
     }
  }
 
